@@ -14,7 +14,7 @@ Then on this page you’ll be creating your Portmap account just like any other 
 ![Portmap Register](Images/portmap-register-2.png)
 
 After creating your account, verify your email, and that’s basically it for creating a Portmap account.  
-Also I haven’t said this but the reason we’re creating a Portmap account is because we’re going to use it as a **port forwarding service**. If you don’t know what that is go search it up or ask ChatGPT just like most of y’all always do :D.  
+Also I haven’t said this but the reason we’re creating a Portmap account is because we’re going to use it as a **port forwarding service**. If you don’t know what that is go search it up or ask ChatGPT.  
 ![Portmap Email Confirmation](Images/portmap-email-confirmation.png)
 
 ---
@@ -139,3 +139,4 @@ If you found this guide helpful, please ⭐ the repo:
 ## 📬 Contact
 For feedback, questions, or just to say thanks, reach me on Telegram:  
 [@XCandlemass](https://t.me/XCandlemass)
+
